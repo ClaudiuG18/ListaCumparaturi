@@ -1,0 +1,14 @@
+main{
+  display: flex;
+  flex-direction: row;
+  align-items: left;
+  justify-content: left;
+  height: 50vh;
+  background-color: #6c5c5c;
+  
+}
+#lista-alimente {
+  color: #74d3e3;
+  font-size: 2rem;
+  
+} 
